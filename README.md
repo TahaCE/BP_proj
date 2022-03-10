@@ -9,3 +9,16 @@ After running the .exe file, you can see a menu like this :point_down:
 3. Change Name
 4. Leaderboard
 5. Quit
+
+**New Game :**
+ You can enter 1 to run a new game. After clicking 1 , you must choose the level of the game. Then enter a name for your game.
+So you can play now.The hint for playing has been written above.
+
+**Load Game :**
+ You can see the list of saved games in here. You can choose one of them by writing the number and then click enter to play.
+ 
+ **Change Name :**
+ You can  see the list of usernames in here. You can choose one of them by writing the number and then click enter to play whit that username.
+ 
+ **Leaderboard :**
+ Here we have the list of players by their points in the game.
